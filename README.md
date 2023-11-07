@@ -1,1 +1,2 @@
-# kohport.github.io
+# GitHubの練習
+- リポジトリを発行
